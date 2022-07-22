@@ -5,7 +5,7 @@
     "dev": "nuxi dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "story: dev": "histoire dev"
+    "story:dev": "histoire dev"
   },
   "devDependencies": {
     "@histoire/plugin-nuxt": "^0.8.2",
